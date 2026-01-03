@@ -1,4 +1,4 @@
-### Smart Stop Watch 
+# Smart Stop Watch 
 
 ## Description
 
