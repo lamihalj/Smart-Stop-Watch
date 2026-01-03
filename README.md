@@ -35,8 +35,9 @@ gcc main.c -o main
 
 ## Run the program:
 
-./main        # macOS / Linux
-main.exe     # Windows
+./main  
+
+main.exe    
 
 ## Project Files
 
